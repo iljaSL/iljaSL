@@ -1,5 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Ilja!</h1>
-<p align="center">I'm a student of computer science at Hive Helsinki and a aspiring full stack developer with a vast interest in cyber security. 
+<p align="center">I'm a student of computer science at Hive Helsinki part of the 42 Network and a aspiring full stack developer with a vast interest in cyber security.</p>
+<br>
+<p>Some of you may never heard of Hive Helsinki or the 42 Network. I created this <a href="">repo</a>, in order to describe it in detail.
 </p>
 
 <h2 align="center">Contact details</h2>
