@@ -9,7 +9,7 @@
          <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
          </a>
          <a href="https://www.linkedin.com/in/gauravghongde">
-         <img src="https://github.com/iljaSL/imgs/instagram-sketched.png" width="32" height="32"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/instagram-sketched.png" width="32" height="32"/>
          </a>
          <a href="https://www.instagram.com/madebygaurav">
          <img src="" width="32" height="32"/>
