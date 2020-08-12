@@ -1,17 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Ilja!</h1>
+<p align="center">I'm a student of computer science at Hive Helsinki part of the 42 Network and a aspiring full stack developer with a vast interest in cyber security.</p>
+<br>
+<p>Some of you may never heard of Hive Helsinki or the 42 Network. I created this <a href="https://github.com/iljaSL/what_is_hive_helsinki">repo</a>, in order to describe it in detail.
+</p>
 
-<!--
-**iljaSL/iljaSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<h2 align="center">Contact me on</h2>
+<h2 align="center">Contact details</h2>
       <h2 align="center">
-         <a href="https://twitter.com/madebygaurav">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Twitter_black.png" width="32" height="32"/>
+         <a href="https://twitter.com/Ilja_sl">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/twitter.png" width="32" height="32" title="twitter"/>
          </a>
-         <a href="https://www.linkedin.com/in/gauravghongde">
-         <img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png" width="32" height="32"/>
+         <a href="https://www.linkedin.com/in/ilja-smelich">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/linkedin.png" width="32" height="32" title="linkedin"/>
          </a>
-         <a href="https://www.instagram.com/madebygaurav">
-         <img src="https://image.flaticon.com/icons/svg/1384/1384015.svg" width="32" height="32"/>
+         <a href="https://www.instagram.com/ilja_sl/">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/instagram-sketched.png" width="32" height="32" title="instagram"/>
+         </a>
+         <a href="https://ismelich.tech">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/internet.png" width="32" height="32" title="own website"/>
          </a>
 </h2>
