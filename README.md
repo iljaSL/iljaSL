@@ -18,38 +18,39 @@
 </h2>
 
 <h2 align="center">Currently working on:</h2>
-      <h3 align="center">Hive Helsinki Project:</h3>
+      <h3 align="center">Hive Helsinki Projects:</h3>
       <p align="center">
-      <a href="">Matcha</a>: a full stack dating web application. Stage -> Program Design. <br>
-      Stack i gonna use:
+      <a href="">Matcha</a>: a full stack dating web application. <br>
+      Stage -> Program Design. <br>
+      Stack I gonna use:
       <ul align="center">
-      <li>HTML</li>
-      <li>CSS/ Bootstrap</li>
-      <li>JavaScript</li>
-      <li>NodeJS</li>
-      <li>Express</li>
-      <li>Apache</li>
-      <li>MySQL</li>
+      <p>HTML</p>
+      <p>CSS/ Bootstrap</p>
+      <p>JavaScript</p>
+      <p>NodeJS</p>
+      <p>Express</p>
+      <p>Apache</p>
+      <p>MySQL</p>
       </ul>
 </p>
 <h3 align="center">Personal Projects</h3>
 <p align="center">
-      Improving my pen testing skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a>
+      Improving my penetration testing skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a>
       </p>
       
 
 <h2 align="center">Follow or contact me on the following platforms!</h2>
       <h2 align="center">
-         <a href="https://twitter.com/Ilja_sl">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/twitter.png" width="32" height="32" title="twitter"/>
+          <a href="https://ismelich.tech">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/internet.png" width="32" height="32" title="own website"/>
          </a>
          <a href="https://www.linkedin.com/in/ilja-smelich">
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/linkedin.png" width="32" height="32" title="linkedin"/>
          </a>
+         <a href="https://twitter.com/Ilja_sl">
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/twitter.png" width="32" height="32" title="twitter"/>
+         </a>
          <a href="https://www.instagram.com/ilja_sl/">
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/instagram-sketched.png" width="32" height="32" title="instagram"/>
-         </a>
-         <a href="https://ismelich.tech">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/internet.png" width="32" height="32" title="own website"/>
          </a>
 </h2>
