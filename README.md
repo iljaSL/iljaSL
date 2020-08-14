@@ -22,7 +22,7 @@
       <p align="center">
       <a href="">Matcha</a>: a full stack dating web application. <br>
       Stage -> Program Design. <br>
-      Stack I gonna use:
+      Stack:
       <ul align="center">
             <p>HTML, CSS/ Bootstrap, JavaScript, NodeJS, Express, Apache, MySQL</p>
       </ul>
