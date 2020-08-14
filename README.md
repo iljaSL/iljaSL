@@ -17,6 +17,27 @@
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-docker-250.png" width="32" height="32" title="Docker"/>
 </h2>
 
+<h2 align="center">Currently working on:</h2>
+      <h3 align="center">Hive Helsinki Project:</h3>
+      <p align="center">
+      <a href="">Matcha</a>: a full stack dating web application. Stage -> Program Design. <br>
+      Stack i gonna use:
+      <ul align="center">
+      <li>HTML</li>
+      <li>CSS/ Bootstrap</li>
+      <li>JavaScript</li>
+      <li>NodeJS</li>
+      <li>Express</li>
+      <li>Apache</li>
+      <li>MySQL</li>
+      </ul>
+</p>
+<h3 align="center">Personal Projects</h3>
+<p align="center">
+      Improving my pen testing skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a>
+      </p>
+      
+
 <h2 align="center">Follow or contact me on the following platforms!</h2>
       <h2 align="center">
          <a href="https://twitter.com/Ilja_sl">
