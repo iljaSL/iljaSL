@@ -24,13 +24,7 @@
       Stage -> Program Design. <br>
       Stack I gonna use:
       <ul align="center">
-      <p>HTML</p>
-      <p>CSS/ Bootstrap</p>
-      <p>JavaScript</p>
-      <p>NodeJS</p>
-      <p>Express</p>
-      <p>Apache</p>
-      <p>MySQL</p>
+            <p>HTML, CSS/ Bootstrap, JavaScript, NodeJS, Express, Apache, MySQL</p>
       </ul>
 </p>
 <h3 align="center">Personal Projects</h3>
