@@ -25,7 +25,7 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
 </p>
 <h3 align="center">Personal Projects</h3>
 <p align="center">
-      Improving my penetration testing skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a>
+      Improving my pen testing skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a>
       </p>
       
 
