@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm Ilja!</h1>
 <p align="center">I'm an aspiring full stack developer with a vast interest in cyber security. I'm a student of computer science at Hive Helsinki, which is part of the 42 Network.
-Some of you may never heard of Hive Helsinki or the 42 Network, I created this <a href="https://github.com/iljaSL/what_is_hive_helsinki">repo</a>, in order to describe it in detail.
+Some of you may never heard of Hive Helsinki or the 42 Network, I created this <a href="https://github.com/iljaSL/what_is_hive_helsinki">repo</a> in order to describe it in detail.
 </p>
 
-<h2 align="center">My tech stack</h2>
+<h2 align="center">My tech stack:</h2>
       <h2 align="center">
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-c-programming-480.png" width="32" height="32" title="c"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-javascript-240.png" width="32" height="32" title="javascript"/>
