@@ -7,12 +7,15 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
       <h2 align="center">
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-c-programming-480.png" width="32" height="32" title="c"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-javascript-240.png" width="32" height="32" title="javascript"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-react-128.png" width="32" height="32" title="react"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-redux-100.png" width="32" height="32" title="redux"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-node-js-256.png" width="32" height="32" title="nodeJS"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-php-logo-250.png" width="32" height="32" title="php"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-html-5-192.png" width="32" height="32" title="html"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-css3-250.png" width="32" height="32" title="css"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-mongodb-240.png" width="32" height="32" title="mongoDB"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-mysql-logo-250.png" width="32" height="32" title="mySQL"/>
+         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-postgresql-144.png" width="32" height="32" title="postgreSQL"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-docker-250.png" width="32" height="32" title="Docker"/>
 </h2>
 
