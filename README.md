@@ -29,7 +29,7 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
 <h3 align="center">Personal Projects</h3>
 <p align="center">
       Improving my ethical hacking skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a> <br>
-      Improving my full stack development skills with the <a href"https://github.com/iljaSL/fullStackOpen2020" target="_blank">Full Stack Open 2020 course</a> by University of Helsinki
+      Improving my full stack development skills with the <a href="https://github.com/iljaSL/fullStackOpen2020" target="_blank">Full Stack Open 2020 course</a> by University of Helsinki
       </p>
       
 
