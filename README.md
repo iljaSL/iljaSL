@@ -22,7 +22,7 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
 <h2 align="center">Currently working on:</h2>
       <h3 align="center">Hive Helsinki Projects:</h3>
       <p align="center">
-      <a href="">Matcha</a>: a full stack dating web application. <br>
+      <a href="https://github.com/iljaSL/matcha">Matcha</a>: a full stack dating web application. <br>
       Stage -> Working on the backend.<br>
       Stack -> HTML, CSS/ Bootstrap, React, Redux, NodeJS, Express, MySQL
 </p>
