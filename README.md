@@ -17,6 +17,7 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-mysql-logo-250.png" width="32" height="32" title="mySQL"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-postgresql-144.png" width="32" height="32" title="postgreSQL"/>
          <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/icons8-docker-250.png" width="32" height="32" title="Docker"/>
+      </h2>
 </h2>
 
 <h2 align="center">Currently working on:</h2>
