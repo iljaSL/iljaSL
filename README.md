@@ -25,7 +25,7 @@ Some of you may never heard of Hive Helsinki or the 42 Network, I created this <
       <p align="center">
       <a href="https://github.com/iljaSL/matcha">Matcha</a>: a full stack dating web application. <br>
       Stage -> Working on the frontend.<br>
-      Stack -> HTML, CSS/ Bootstrap, React, Redux, NodeJS, Express, MySQL <br>
+      Stack -> HTML, CSS/ Material-UI, React, Redux, NodeJS, Express, PostgreSQL <br>
       Stack for Testing -> Jest, Supertest, Cypress
 </p>
 <h3 align="center">Personal Projects</h3>
