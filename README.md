@@ -25,7 +25,7 @@
       <a href="https://github.com/iljaSL/matcha">Matcha</a>: a full stack dating web application. <br>
       Stage -> Working on the frontend.<br>
       Stack -> HTML, CSS/ Material-UI, React, Redux, NodeJS, Express, PostgreSQL <br>
-      Stack for Testing -> Jest, Supertest, Cypress
+      Stack for Testing -> Jest, Supertest
 </p>
 <h3 align="center">Personal Projects</h3>
 <p align="center">
