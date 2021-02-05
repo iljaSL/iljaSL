@@ -22,9 +22,9 @@
 <h2 align="center">Currently working on:</h2>
       <h3 align="center">Hive Helsinki Projects:</h3>
       <p align="center">
-      <a href="https://github.com/iljaSL/matcha">Matcha</a>: a full stack dating web application. <br>
-      Stage -> Working on the frontend.<br>
-      Stack -> HTML, CSS/ Material-UI, React, Redux, NodeJS, Express, PostgreSQL <br>
+      <a href="https://github.com/DianaMukaliyeva/hypertube">Hypertube</a>: a single page streaming web application. <br>
+      Stage -> Design.<br>
+      Stack -> React, Redux, NodeJS, Docker, MongoDB, Github Actions <br>
       Stack for Testing -> Jest, Supertest
 </p>
 <h3 align="center">Personal Projects</h3>
