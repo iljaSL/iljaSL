@@ -20,15 +20,15 @@
 <h2 align="center">Follow or contact me on the following platforms!</h2>
       <h2 align="center">
           <a href="https://ismelich.tech">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/internet.png" width="32" height="32" title="own website"/>
+         <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=firefox&logoColor=white" title="own website"/>
          </a>
          <a href="https://www.linkedin.com/in/ilja-smelich">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/linkedin.png" width="32" height="32" title="linkedin"/>
+         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"/>
          </a>
          <a href="https://twitter.com/Ilja_sl">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/twitter.png" width="32" height="32" title="twitter"/>
+         <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" title="twitter"/>
          </a>
          <a href="https://www.instagram.com/ilja_sl/">
-         <img src="https://github.com/iljaSL/iljaSL/blob/master/imgs/instagram-sketched.png" width="32" height="32" title="instagram"/>
+         <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" title="instagram"/>
          </a>
 </h2>
