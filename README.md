@@ -8,7 +8,8 @@
       <a href="https://github.com/DianaMukaliyeva/hypertube">Hypertube</a>: a single page streaming web application. <br>
       Stage -> Implementation.<br>
       Stack -> React, NodeJS, Docker, MongoDB, Github Actions <br>
-      Stack for Testing -> Jest, Supertest
+      Stack for Testing -> Jest, Supertest <br>
+      Stack for CI -> Github Actions for API tests and Eslint
 </p>
 <h3 align="center">Personal Projects</h3>
 <p align="center">
