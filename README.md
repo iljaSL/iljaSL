@@ -20,7 +20,7 @@
 
 <h2 align="center">Follow or contact me on the following platforms!</h2>
       <h2 align="center">
-          <a href="https://ismelich.tech">
+          <a href="https://ismelich.com">
          <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=firefox&logoColor=white" title="own website"/>
          </a>
          <a href="https://www.linkedin.com/in/ilja-smelich">
