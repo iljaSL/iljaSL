@@ -29,7 +29,4 @@
          <a href="https://twitter.com/Ilja_sl">
          <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" title="twitter"/>
          </a>
-         <a href="https://www.instagram.com/ilja_sl/">
-         <img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=white" title="instagram"/>
-         </a>
 </h2>
