@@ -2,19 +2,10 @@
 <p align="center"><b>I'm an junior software engineer with a vast interest in cyber security and a student of computer science at Hive Helsinki, which is part of the <a href="https://github.com/iljaSL/what_is_hive_helsinki">42 Network</a>.
 </p>
 
-<h2 align="center">Currently working on:</h2>
-      <h3 align="center">Hive Helsinki Projects:</h3>
-      <p align="center">
-      <a href="https://github.com/DianaMukaliyeva/hypertube">Hypertube</a>: a single page streaming web application. <br>
-      Stage -> Implementation.<br>
-      Stack -> React, NodeJS, Docker, MongoDB, Github Actions <br>
-      Stack for Testing -> Jest, Supertest <br>
-      Stack for CI -> Github Actions for API tests and Eslint
-</p>
-<h3 align="center">Personal Projects</h3>
+<h3 align="center">Current Projects:</h3>
 <p align="center">
-      Improving my ethical hacking skills -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a> <br>
-      Improving my full stack development skills with the <a href="https://github.com/iljaSL/fullStackOpen2020" target="_blank">Full Stack Open 2020 course</a> by University of Helsinki
+      Ethical Hacking -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a> <br>
+      DevOps with Docker and Kubernetes course by Univeristy of Helsinki and Eficode -> <a href="https://github.com/iljaSL/devops_with_docker">Project Repo</a>
       </p>
       
 
