@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ilja!</h1>
-<p align="center"><b>I'm an junior software engineer with a vast interest in cyber security and a student of computer science at Hive Helsinki, which is part of the <a href="https://github.com/iljaSL/what_is_hive_helsinki">42 Network</a>.
+<p align="center"><b>I'm an junior software engineer with a vast interest in cyber security and a student of computer science at <a href="https://github.com/iljaSL/what_is_hive_helsinki">Hive Helsinki</a>.
 </p>
 
 <h3 align="center">Current Projects:</h3>
