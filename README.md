@@ -4,7 +4,7 @@
 
 <h3 align="center">Current Projects:</h3>
 <p align="center">
-      Ethical Hacking -> <a href="https://tryhackme.com/p/yoto">My TryHackMe Profile</a> <br>
+      Ethical Hacking -> <a href="https://app.hackthebox.eu/profile/330472">Hack The Box</a> | <a href="https://tryhackme.com/p/yoto">TryHackMe</a> <br>
       DevOps with Docker and Kubernetes course by Univeristy of Helsinki and Eficode -> <a href="https://github.com/iljaSL/devops_with_docker">Project Repo</a>
       </p>
       
