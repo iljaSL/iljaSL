@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Ilja!</h1>
-<p align="center"><b>I'm a Software Engineer with a vast interest in Cyber Security and a student at <a href="https://github.com/iljaSL/what_is_hive_helsinki">Hive Helsinki</a>.
+<p align="center"><b>I'm a Software Engineer with a vast interest in Cyber Security and a lifelong learner at <a href="https://github.com/iljaSL/what_is_hive_helsinki">Hive Helsinki</a>.
 </p>
 
 <h3 align="center">Current Projects:</h3>
@@ -16,8 +16,5 @@
          </a>
          <a href="https://www.linkedin.com/in/ilja-smelich">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="linkedin"/>
-         </a>
-         <a href="https://twitter.com/Ilja_sl">
-         <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" title="twitter"/>
          </a>
 </h2>
